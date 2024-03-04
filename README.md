@@ -12,7 +12,7 @@
 
 ## Explanation for the oop used
 ### 1. Encapsulation
-The attributes inside animal class are declared as private, encapsulating the internal state of the class. They could be controlled by setter and gester, providing a level of abstraction and protection for the internal data.
+The attributes inside `animal class` are declared as private, encapsulating the internal state of the class. They could be controlled by setter and gester, providing a level of abstraction and protection for the internal data.
 
 ### 2. Abstraction
 `Animal class` is declared as abstract class which means by extended by subclasses. Example of makesound() which provide their own implementation for making a sound.
