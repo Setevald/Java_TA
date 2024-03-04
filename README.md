@@ -12,8 +12,13 @@
 
 ## Explanation for the oop used
 ### 1. Encapsulation
-The attributes inside animal class are declared as private, encapsulating the internal state of the class.They could be controlled by setter and gester, providing a level of abstraction and protection for the internal data.
+The attributes inside animal class are declared as private, encapsulating the internal state of the class. They could be controlled by setter and gester, providing a level of abstraction and protection for the internal data.
+
 ### 2. Abstraction
-'Animal class' is declared as abstract class which means by extended by subclasses. Example of makesound() which provide their own implementation for making a sound.
+`Animal clas` is declared as abstract class which means by extended by subclasses. Example of makesound() which provide their own implementation for making a sound.
+
 ### 3. Inheritance 
 In the `Dog class` it inherits the attributes and methods defined in 'Animal class' and also provide its own specific implementations. 
+
+### 4. Polymorphism
+The `speak()` method in the `AnimalClass` is overridden in the `Dog class`. When an object of type `Dog` is used, the overridden `speak()` method in the `Dog` class is invoked
