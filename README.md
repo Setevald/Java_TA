@@ -1,6 +1,6 @@
 # Steven - 2702398283 - L2AC
 
-## Screenshot
+## Screenshots
 ### Animal class
 ![Animal Class](https://github.com/Setevald/Java_TA/assets/133423110/8f37ba9c-e3d1-4a90-9b8f-16e7db333fa8)
 
@@ -9,6 +9,9 @@
 
 ### Animal Driver
 ![Animal Driver](https://github.com/Setevald/Java_TA/assets/133423110/06472e77-8ae3-4b02-a8da-042352d8fc32)
+
+### Results
+![Result](https://github.com/Setevald/Java_TA/assets/133423110/5ef64f87-e376-4dd6-862d-01b1a4d17115)
 
 ## Explanation for the oop used
 ### 1. Encapsulation
